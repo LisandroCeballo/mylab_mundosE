@@ -1,3 +1,4 @@
 archivo: code2.txt
 Modificacion realizada en el repo remoto
 Modifico de nuevo
+Modifico la ultima vez en el local
